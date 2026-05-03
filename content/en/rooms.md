@@ -1,0 +1,5 @@
+---
+title: "Rooms"
+---
+
+Our rooms.
