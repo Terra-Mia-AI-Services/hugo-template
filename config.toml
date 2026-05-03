@@ -1,0 +1,24 @@
+baseURL = "https://example.com"
+languageCode = "it-it"
+defaultContentLanguage = "it"
+title = "Villa Splendido"
+
+[params]
+  site_name = "Villa Splendido"
+  description = "Hotel di lusso con vista sul mare"
+  contact_email = "info@villasplendido.it"
+  contact_phone = "+39 012 345 6789"
+  address = "Via Roma 1, 00100 Roma"
+
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
