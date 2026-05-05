@@ -2,4 +2,4 @@
 title: "Welcome"
 ---
 
-Welcome to Villa Splendido.
+Welcome! Discover our business and the services we offer.

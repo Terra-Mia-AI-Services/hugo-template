@@ -1,5 +1,10 @@
 ---
 title: "Contact"
+description: "How to reach us"
+layout: "contatti"
+menu:
+  main:
+    weight: 10
 ---
 
-Email: info@villasplendido.it
+Come visit us or get in touch for any information.

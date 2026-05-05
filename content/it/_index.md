@@ -2,4 +2,4 @@
 title: "Benvenuti"
 ---
 
-Benvenuti a Villa Splendido.
+Benvenuti! Scoprite la nostra attività e i servizi che offriamo.
